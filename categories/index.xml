@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Synthesized Angel</title>
+    <link>https://blog.synthesizedangel.com/categories/</link>
+    <description>Recent content in Categories on Synthesized Angel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.synthesizedangel.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anime</title>
+      <link>https://blog.synthesizedangel.com/categories/anime/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.synthesizedangel.com/categories/anime/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Upcoming</title>
+      <link>https://blog.synthesizedangel.com/categories/upcoming/</link>
+      <pubDate>Sat, 07 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.synthesizedangel.com/categories/upcoming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ongoing</title>
+      <link>https://blog.synthesizedangel.com/categories/ongoing/</link>
+      <pubDate>Thu, 29 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.synthesizedangel.com/categories/ongoing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Completed</title>
+      <link>https://blog.synthesizedangel.com/categories/completed/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.synthesizedangel.com/categories/completed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Novel</title>
+      <link>https://blog.synthesizedangel.com/categories/visual-novel/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.synthesizedangel.com/categories/visual-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light Novel</title>
+      <link>https://blog.synthesizedangel.com/categories/light-novel/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.synthesizedangel.com/categories/light-novel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Manga</title>
+      <link>https://blog.synthesizedangel.com/categories/manga/</link>
+      <pubDate>Tue, 20 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.synthesizedangel.com/categories/manga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
